@@ -10,6 +10,7 @@
 - GitPod
 - https://elm-lang.org/assets/blog/error-messages/0.15.1/naming.png
 - https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186
+- https://en.wikipedia.org/wiki/Dr_Scheme
 
 ## people
 - Geoffrey Huntley
