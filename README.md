@@ -9,6 +9,7 @@
 - custom preludes w/elm error messages or custom haskell ala https://github.com/Helium4Haskell/helium - https://www.microsoft.com/en-us/research/publication/helium-for-learning-haskell/
 - GitPod
 - https://elm-lang.org/assets/blog/error-messages/0.15.1/naming.png
+- https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186
 
 ## people
 - Geoffrey Huntley
