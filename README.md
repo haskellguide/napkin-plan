@@ -10,7 +10,6 @@
 - GitPod
 - https://elm-lang.org/assets/blog/error-messages/0.15.1/naming.png
 
-
 ## people
 - Geoffrey Huntley
 - George Wilson
